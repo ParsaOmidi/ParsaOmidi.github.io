@@ -86,21 +86,21 @@
       items:
     - title: Computer Vision & Artificial Intelligence
       items:
-# 
-# - title: Skills & Tools
-#   type: nested_list
-#   contents:
-#     - title: Programming Languages and Frameworks:
-#       items:
-#         - "Python,			MATLAB,		C#,			C++"
-#     - title: Programming Skills:
-#       items:
-#         - "Object-Oriented Programming (OOP)"
-#         - "Data structures and algorithms"
-#         - "Database management (e.g., MySQL)"
-#         - "Cloud computing (e.g., AWS, Azure)"
-#         - "Debugging and problem-solving"
-#         - "Agile methodologies"
+#
+- title: Skills & Tools
+  type: nested_list
+  contents:
+    - title: Programming Languages and Frameworks:
+      items:
+        - "Python,			MATLAB,		C#,			C++"
+    - title: Programming Skills:
+      items:
+        - "Object-Oriented Programming (OOP)"
+        - "Data structures and algorithms"
+        - "Database management (e.g., MySQL)"
+        - "Cloud computing (e.g., AWS, Azure)"
+        - "Debugging and problem-solving"
+        - "Agile methodologies"
 #     - title: Deep Learning Frameworks:
 #       items:
 #         - "PyTorch,		TensorFlow,		Keras,			Brian"
