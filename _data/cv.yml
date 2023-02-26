@@ -90,10 +90,10 @@
 - title: Skills & Tools
   type: nested_list
   contents:
-    - title: Programming Languages and Frameworks:
+    - title: Programming Languages and Frameworks
       items:
         - "Python,			MATLAB,		C#,			C++"
-    - title: Programming Skills:
+    - title: Programming Skills
       items:
         - "Object-Oriented Programming (OOP)"
         - "Data structures and algorithms"
