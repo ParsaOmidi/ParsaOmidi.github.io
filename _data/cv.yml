@@ -101,84 +101,84 @@
         - "Cloud computing (e.g., AWS, Azure)"
         - "Debugging and problem-solving"
         - "Agile methodologies"
-#     - title: Deep Learning Frameworks:
-#       items:
-#         - "PyTorch,		TensorFlow,		Keras,			Brian"
-#     - title: Machine Learning Libraries:
-#       items:
-#         - "NumPy,	 		Pandas,			Scikit-learn"
-#         - "XGBoost,   Seaborn,		Matplotlib"
-#     - title: Computer Vision Libraries:
-#       items:
-#         - "OpenCV,		Scikit-Image,		AForge.NET"
-#         - "ImageJ, MATLAB Image Processing Toolbox"
-#     - title: Computer Vision Techniques:
-#       items:
-#         - "2D/3D Image Enhancement"
-#         - "Geometrical Imaging"
-#         - "Object Detection"
-#         - "Object Tracking	"
-#         - "Segmentation (Semantic/ Instance)"
-#         - "Medical Image Reconstruction"
-#         - "Microscopic Imaging"
-#         - "Multi-Spectral Imaging"
-#         - "Image Classification"
-#         - "Filtering/Edge Detection"
-#         - "Stereo Imaging"
-#         - "3D Profilometry"
-#         - "RGB-D imaging (depth detection)"
-#         - "Lidar"
-#         - "Speckle Imaging"
-#     - title: Signal Processing Techniques:
-#       items:
-#         - "Fourier analysis"
-#         - "Digital signal processing (DSP)"
-#         - "Spectral analysis"
-#         - "Time & Frequency domain analysis"
-#         - "Signal Decomposition"
-#         - "Wavelet analysis"
-#         - "Filter design"
-#         - "Signal Statistics"
-#     - title: Neural Network Architectures:
-#       items:
-#         - "Convolutional Neural Networks (CNN)"
-#         - "Recurrent Neural Networks (RNN)"
-#         - "Generative Adversarial Networks (GAN) 	"
-#         - "Restricted Boltzmann Machine (RBM)"
-#     - title: Data Pre-Processing:
-#       items:
-#         - "Normalizing"
-#         - "Augmentation"
-#         - "Registration"
-#         - "Cleaning/Pruning"
-#         - "Data imputation"
-#         - "Outlier detection"
-#         - "Data reduction (e.g., Principal component analysis (PCA))"
-#         - "Resizing (interpolation/extrapolation)"
-#     - title: Model Training and Evaluation:
-#       items:
-#         - "Cross-validation"
-#         - "Transfer learning"
-#         - "Hyperparameter tuning"
-#         - "Grid search"
-#         - "Regularization"
-#         - "Early stopping"
-#         - "Ensemble learning"
-#     - title: Version Controlling:
-#       items:
-#         - "Git"
-#         - "GitHub"
-#     - title: GUI Design:
-#       items:
-#         - "C# (Winform, WPF, UWP)"
-#         - "Python (Tkinter)"
-#         - "MATLAB (appdesigner)"
-#     - title: Online Coding Communities:
-#       items:
-#         - "Stack Overflow"
-#         - "LeetCode"
-#         - "Kaggle"
-#         - "GitHub"
+    - title: Deep Learning Frameworks
+      items:
+        - "PyTorch,		TensorFlow,		Keras,			Brian"
+    - title: Machine Learning Libraries
+      items:
+        - "NumPy,	 		Pandas,			Scikit-learn"
+        - "XGBoost,   Seaborn,		Matplotlib"
+    - title: Computer Vision Libraries
+      items:
+        - "OpenCV,		Scikit-Image,		AForge.NET"
+        - "ImageJ, MATLAB Image Processing Toolbox"
+    - title: Computer Vision Techniques
+      items:
+        - "2D/3D Image Enhancement"
+        - "Geometrical Imaging"
+        - "Object Detection"
+        - "Object Tracking	"
+        - "Segmentation (Semantic/ Instance)"
+        - "Medical Image Reconstruction"
+        - "Microscopic Imaging"
+        - "Multi-Spectral Imaging"
+        - "Image Classification"
+        - "Filtering/Edge Detection"
+        - "Stereo Imaging"
+        - "3D Profilometry"
+        - "RGB-D imaging (depth detection)"
+        - "Lidar"
+        - "Speckle Imaging"
+    - title: Signal Processing Techniques
+      items:
+        - "Fourier analysis"
+        - "Digital signal processing (DSP)"
+        - "Spectral analysis"
+        - "Time & Frequency domain analysis"
+        - "Signal Decomposition"
+        - "Wavelet analysis"
+        - "Filter design"
+        - "Signal Statistics"
+    - title: Neural Network Architectures
+      items:
+        - "Convolutional Neural Networks (CNN)"
+        - "Recurrent Neural Networks (RNN)"
+        - "Generative Adversarial Networks (GAN) 	"
+        - "Restricted Boltzmann Machine (RBM)"
+    - title: Data Pre-Processing
+      items:
+        - "Normalizing"
+        - "Augmentation"
+        - "Registration"
+        - "Cleaning/Pruning"
+        - "Data imputation"
+        - "Outlier detection"
+        - "Data reduction (e.g., Principal component analysis (PCA))"
+        - "Resizing (interpolation/extrapolation)"
+    - title: Model Training and Evaluation
+      items:
+        - "Cross-validation"
+        - "Transfer learning"
+        - "Hyperparameter tuning"
+        - "Grid search"
+        - "Regularization"
+        - "Early stopping"
+        - "Ensemble learning"
+    - title: Version Controlling
+      items:
+        - "Git"
+        - "GitHub"
+    - title: GUI Design
+      items:
+        - "C# (Winform, WPF, UWP)"
+        - "Python (Tkinter)"
+        - "MATLAB (appdesigner)"
+    - title: Online Coding Communities
+      items:
+        - "Stack Overflow"
+        - "LeetCode"
+        - "Kaggle"
+        - "GitHub"
 # - title: Certifications & Courses
 #   type: time_table
 #   contents:
