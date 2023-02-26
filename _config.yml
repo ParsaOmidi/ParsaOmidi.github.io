@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Josu
+first_name: Parsa
 middle_name:
-last_name: Alonso Castanedo
+last_name: Omidi
 email: josu93alonso@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal blog about data and artificial intelligence topics.
