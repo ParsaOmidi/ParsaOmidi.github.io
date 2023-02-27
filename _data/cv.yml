@@ -95,7 +95,7 @@
         - "Python,			MATLAB,		C#,			C++"
     - title: Programming Skills
       items:
-        - "Object-Oriented Programming (OOP)"
+        - "Object-oriented programming (OOP)"
         - "Data structures and algorithms"
         - "Database management (e.g., MySQL)"
         - "Cloud computing (e.g., AWS, Azure)"
@@ -114,31 +114,31 @@
         - "ImageJ, MATLAB Image Processing Toolbox"
     - title: Computer Vision Techniques
       items:
-        - "2D/3D Image Enhancement"
-        - "Geometrical Imaging"
-        - "Object Detection"
-        - "Object Tracking	"
-        - "Segmentation (Semantic/ Instance)"
-        - "Medical Image Reconstruction"
-        - "Microscopic Imaging"
-        - "Multi-Spectral Imaging"
-        - "Image Classification"
-        - "Filtering/Edge Detection"
-        - "Stereo Imaging"
-        - "3D Profilometry"
+        - "2D/3D image enhancement"
+        - "Geometrical imaging"
+        - "Object detection"
+        - "Object tracking	"
+        - "Segmentation (semantic/ instance)"
+        - "Medical image reconstruction"
+        - "Microscopic imaging"
+        - "Multi-spectral imaging"
+        - "Image classification"
+        - "Filtering/edge detection"
+        - "Stereo imaging"
+        - "3D profilometry"
         - "RGB-D imaging (depth detection)"
         - "Lidar"
-        - "Speckle Imaging"
+        - "Speckle imaging"
     - title: Signal Processing Techniques
       items:
         - "Fourier analysis"
         - "Digital signal processing (DSP)"
         - "Spectral analysis"
-        - "Time & Frequency domain analysis"
-        - "Signal Decomposition"
+        - "Time & frequency domain analysis"
+        - "Signal decomposition"
         - "Wavelet analysis"
         - "Filter design"
-        - "Signal Statistics"
+        - "Signal statistics"
     - title: Neural Network Architectures
       items:
         - "Convolutional Neural Networks (CNN)"
@@ -167,7 +167,6 @@
     - title: Version Controlling
       items:
         - "Git"
-        - "GitHub"
     - title: GUI Design
       items:
         - "C# (Winform, WPF, UWP)"
