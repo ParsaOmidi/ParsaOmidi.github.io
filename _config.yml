@@ -70,12 +70,12 @@ github_username: ParsaOmidi # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: https://www.linkedin.com/in/parsa-omidi-4851457a/ # your LinkedIn user name
+linkedin_username: parsa-omidi-4851457a/ # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: https://scholar.google.ca/citations?user=HG3J8BUAAAAJ&hl=en  # your Google Scholar ID
+scholar_userid: HG3J8BUAAAAJ&hl=en  # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: https://orcid.org/0000-0002-6694-8211 # your ORCID ID
+orcid_id: 0000-0002-6694-8211 # your ORCID ID
 medium_username:  # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
